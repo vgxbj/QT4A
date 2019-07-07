@@ -32,9 +32,9 @@ If you have some urgent bugfix on a published version, but the `master` branch h
 
 ```
 master
- ¡ü
+ â†‘
 dev        <--- hotfix PR
- ¡ü 
+ â†‘ 
 feature/bugfix PR
 ```  
 
